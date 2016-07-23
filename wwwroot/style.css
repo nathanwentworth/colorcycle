@@ -28,6 +28,13 @@ body {
 canvas {
 	background: #0000ff;
 }
+h1 {
+	color: white;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
 
 /* extras */
 
